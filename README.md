@@ -122,5 +122,4 @@ A purpose-built agent persona that thinks like an engineering leader — it lead
 ## Links
 
 - [Weave website](https://www.workweave.ai)
-- [Documentation](https://www.workweave.ai)
 - [Get started](https://app.workweave.ai)
