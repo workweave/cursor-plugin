@@ -7,7 +7,7 @@
     "email": "support@workweave.ai"
   },
   "homepage": "https://www.workweave.ai",
-  "repository": "https://github.com/nicedayww/cursor-plugin",
+  "repository": "https://github.com/workweave/cursor-plugin",
   "license": "MIT",
   "keywords": [
     "engineering-metrics",
