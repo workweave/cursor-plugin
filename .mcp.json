@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "weave": {
+      "type": "http",
+      "url": "https://app.workweave.ai/mcp",
+      "headers": {
+        "X-API-Key": "YOUR_WEAVE_API_KEY"
+      }
+    }
+  }
+}
