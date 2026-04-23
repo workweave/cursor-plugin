@@ -2,7 +2,7 @@
   "mcpServers": {
     "weave": {
       "type": "http",
-      "url": "https://app.workweave.ai/mcp",
+      "url": "https://app.workweave.ai/public/mcp",
       "headers": {
         "X-API-Key": "YOUR_WEAVE_API_KEY"
       }
